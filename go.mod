@@ -1,3 +1,3 @@
-module github.com/voson-wang/winstar-check
+module github.com/winstarsmart/check
 
 go 1.20

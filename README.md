@@ -1,3 +1,3 @@
-# github.com/voson-wang/winstar-check
+# github.com/winstarsmart/check
 
-winstar-samrt 常用通信校验库
+winstar-smart 常用通信校验库
